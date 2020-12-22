@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="72421168-f9be-43c5-9288-3326c69eff41" name="Default Changelist" comment="feat: change ide setting">
-      <change afterPath="$PROJECT_DIR$/.idea/GitFlow.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -14,6 +11,11 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GithubProjectSettings">
+    <option name="CREATE_PULL_REQUEST_DEFAULT_BRANCH" value="main" />
+    <option name="CREATE_PULL_REQUEST_DEFAULT_REPO_USER" value="tolkatnya" />
+    <option name="CREATE_PULL_REQUEST_DEFAULT_REPO_NAME" value="GitFlow" />
   </component>
   <component name="ProjectId" id="1m0hacWzgHb0Pf2eh30IlnhQgM6" />
   <component name="ProjectViewState">
@@ -44,7 +46,7 @@
       <updated>1608636481384</updated>
       <workItem from="1608636483585" duration="256000" />
       <workItem from="1608636791921" duration="1220000" />
-      <workItem from="1608640766127" duration="693000" />
+      <workItem from="1608640766127" duration="2120000" />
     </task>
     <task id="LOCAL-00001" summary="feat: add big feature">
       <created>1608641405429</created>
@@ -60,7 +62,14 @@
       <option name="project" value="LOCAL" />
       <updated>1608641440193</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="feat: change ide setting">
+      <created>1608642023585</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1608642023585</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
