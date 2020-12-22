@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="72421168-f9be-43c5-9288-3326c69eff41" name="Default Changelist" comment="feat: add another feature">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-    </list>
+    <list default="true" id="72421168-f9be-43c5-9288-3326c69eff41" name="Default Changelist" comment="feat: add another feature" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -47,7 +44,7 @@
       <updated>1608636481384</updated>
       <workItem from="1608636483585" duration="256000" />
       <workItem from="1608636791921" duration="1220000" />
-      <workItem from="1608640766127" duration="2973000" />
+      <workItem from="1608640766127" duration="3286000" />
     </task>
     <task id="LOCAL-00001" summary="feat: add big feature">
       <created>1608641405429</created>
